@@ -1,9 +1,6 @@
-<div>
-  <p align="center">
-    <img src="https://media.giphy.com/media/AiaOZGWDSLYI9byiPm/giphy.gif" width="50%"/>
-  </p>
-</>
-
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/AiaOZGWDSLYI9byiPm/giphy.gif" width="50%" />
+</div>
 
 <!--
 **Archi00/Archi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
